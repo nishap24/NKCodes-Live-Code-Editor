@@ -107,6 +107,7 @@ While the Live Code Editor is deployed on Netlify, users are also encouraged to 
 
 ## Deployment Status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bfeed1d2-f579-411f-b968-7aa0949dd302/deploy-status)](https://app.netlify.com/sites/kanasu-live-code-editor/deploys)
 
 ## Contributing
 
