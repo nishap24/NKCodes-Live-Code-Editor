@@ -161,5 +161,5 @@ For any questions or inquiries, please feel free to reach out.
 
 Check this out for all my social accounts:
 
-**TG :** 
-[![Bento](https://img.shields.io/badge/bento-blue?style=for-the-badge&logo=threads&logoColor=white)](https://bento.me/tg26)
+**NK :** 
+[![Bento](https://img.shields.io/badge/bento-blue?style=for-the-badge&logo=threads&logoColor=white)](https://bento.me/nisha-kanasu)
