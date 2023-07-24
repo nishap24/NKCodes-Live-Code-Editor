@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>TG Codes💛-Live Code Editor</title>
+    <!--Icon for the Website-->
+    <link rel="icon" href="./images/logo-black.png" type="icon/x-image">
+    <!--External Style Sheet-->
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="header">
+        <h1>Live Code Editor</h1>
+        <div class="file-name">
+            <input type="text" id="file-name" placeholder="Enter file name">
+        </div>
+    </div>
+    <div class="code-editor">
+        <div class="code">
+            <div class="html-code">
+                <h1><img src="images/html.png" alt="">HTML</h1>
+                <textarea></textarea>
+            </div>
+            <div class="css-code">
+                <h1><img src="images/CSS.png" alt="">CSS</h1>
+                <textarea></textarea>
+            </div>
+            <div class="js-code">
+                <h1><img src="images/js.png" alt="">JS</h1>
+                <textarea spellcheck="false"></textarea>
+            </div>
+        </div>
+        <iframe id="result"></iframe>
+    </div>
+    <div class="buttons">
+        <button class="save" onclick="saveCode()">Save</button>
+        <button class="reset" onclick="resetEditor()">Reset</button>
+        <button class="download" onclick="downloadCode()">Download</button>
+    </div>
+
+
+    <!--JS Files-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
